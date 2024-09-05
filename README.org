@@ -1,0 +1,28 @@
+#+title: idk what to call this
+#+author: Atri Hegde, Annie Tse
+
+* Preface
+
+* Table of Contents :TOC:
+- [[#preface][Preface]]
+- [[#chapters][Chapters]]
+  - [[#introduction-to-linux][Introduction to Linux.]]
+  - [[#git][Git]]
+  - [[#problem-to-solve][Problem to solve.]]
+
+* Chapters
+** Introduction to Linux.
+1. Installing WSL/Linux.
+2. Introduction to BASH.
+3. Package Manager.
+4. Nix: Package manager.
+5. Installing a Java development environment.
+** Git
+1. Install and configure git.
+2. GitHub, GitLab vs git.
+3. SSH Keys, PGP Keys.
+4. Commits, commit logs, revert commits.
+5. Branches, merging
+** Problem to solve.
+We can use any language you want, but we will do this in Java.
+Check [[./problem-sheet.org]]
