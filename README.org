@@ -24,11 +24,11 @@
    cd ~      # home directory
    #+END_SRC
 
-  Listing files/directories in directory.
+   Listing files/directories in directory.
    #+begin_src
    ls      # lists files in directory
-   ls -a   # lists all files(incluing hidden) in directory
-   ls -l   # lists in londform
+   ls -a   # lists all files (incluing hidden) in directory
+   ls -l   # lists in longform
    #+end_src
 
    Removing
