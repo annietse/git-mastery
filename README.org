@@ -18,40 +18,41 @@
    Welcome to your introduction to BASH. Refer to this as a cheat sheet for your terminal commands.
 
    Change directory.
-```
+   #+BEGIN_SRC
    cd ..     # back a directory
    cd foo    # enter directory
-   cd ~       # home directory
-```
+   cd ~      # home directory
+   #+END_SRC
+
 
    Listing files/directories in directory.
-```
-   ls    # lists files in directory
-   ls -a  # lists all files(incluing hidden) in directory
+   #+begin_src
+   ls      # lists files in directory
+   ls -a   # lists all files(incluing hidden) in directory
    ls -l   # lists in londform
-```
+   #+end_src
 
    Removing
-```
-   rm foo       # removes file or empty directory
+   #+begin_src
+   rm foo      # removes file or empty directory
    rm -rf foo  # removes non-emtpy directory
-```
+   #+end_src
 
    Move/Copy (files/directories)
-```
+   #+begin_src
    mv foo ~/repos/foo # moves file or directory to location of second param
    cp foo ~/repos/foo # copies file or directory to location of second param
-```
+   #+end_src
 
    New directory
-```
+   #+begin_src
    mkdir foo   # makes new directory if does not already exists in current directory
-```
+   #+end_src
 
    New file
-```
+   #+begin_src
    touch foo.txt   # creates new file if does not already exist
-```
+   #+end_src
 
 3. Package Manager.
 
